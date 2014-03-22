@@ -1,0 +1,10 @@
+node_modules
+.npm
+.directory
+.*.kate-swp
+.text_*~
+*~
+*.swp
+/*/.*.kate-swp
+/*/.text_*~
+/*/.directory
