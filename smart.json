@@ -1,0 +1,8 @@
+{
+    "name": "idle-gc",
+    "description": "Meteor package for idle-gc Npm module",
+    "homepage": "https://github.com/dmplutenko/meteor-idle-gc",
+    "author": "dmplutenko",
+    "version": "0.0.1",
+    "git": "https://github.com/dmplutenko/meteor-idle-gc.git"
+} 
